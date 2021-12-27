@@ -2,6 +2,5 @@ hello
 ---
 layout: slide
 title: "Welcome to our second slide!"
----
-Your text
+Your text is understandable.
 Use the left arrow to go back!
